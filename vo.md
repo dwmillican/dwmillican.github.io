@@ -1,10 +1,9 @@
 ---
 title: "VO/Narration"
 layout: page
-image: /assets/images/dwm_VO_300x300.JPG
 permalink: /vo
 ---
-[me] (/assets/images/dwm_VO_300x300.JPG)
+![me] (/assets/images/dwm_VO_300x300.JPG)
 
 I'm available for voiceover and narration work.
 
