@@ -4,7 +4,6 @@ layout: about
 picture: /assets/images/dwm_vo_300x300.jpeg
 
 introduction:
-
 I'm available for voiceover and narration work.
 
 Demos coming soon!
