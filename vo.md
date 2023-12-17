@@ -1,7 +1,7 @@
 ---
 title: "Voiceover/Narration"
 layout: about
-image: /assets/images/dwm_vo_300x300.jpeg
+picture: /assets/images/dwm_vo_300x300.jpeg
 ---
 
 I'm available for voiceover and narration work.
