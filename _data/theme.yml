@@ -50,5 +50,7 @@ google_fonts:
 
 navigation_pages:
   - about.md
+  - chemistry.md
   - vo.md
+  - otherstuff.md
   - cv.md
