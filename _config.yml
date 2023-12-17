@@ -20,10 +20,10 @@ description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://dwmillican.github.io
 author:
-  name:
-  twitter:
-  picture:
-twitter_username:
+  name: Dave Millican
+  twitter: dw_millican
+  picture: /assets/images/dwm_VO_300x300.JPG
+twitter_username: dw_millican
 github_username:
 logo: /assets/images/dwm_logo.jpeg
 search: # true, false (default)
