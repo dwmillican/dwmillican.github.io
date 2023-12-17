@@ -1,7 +1,8 @@
 ---
 title: "Voiceover/Narration"
 layout: about
-picture: /assets/images/dwm_VO_300x300.JPG
+author:
+  picture: /assets/images/dwm_VO_300x300.JPG
 permalink: /vo
 ---
 
