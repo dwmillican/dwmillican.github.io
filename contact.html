@@ -126,3 +126,12 @@ Send Dave a message using the form below:
   margin-right: 3%;
 }
 </style>
+
+<script>
+
+	var referrer =  document.referrer;
+	if(referrer.indexOf(“formspree.io/thanks”) > -1)  {
+		window.location.replace(“https://dwmillican.com”);
+	}
+
+</script>
