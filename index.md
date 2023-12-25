@@ -6,7 +6,7 @@ image: /assets/images/Angel_Oak_01_CropAlt.jpeg
 <html>
   <head>
     <title>Welcome!</title>
-    <link rel="icon" type="image/x-icon" href="/assets/images/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
   </head>
 </html>
 
