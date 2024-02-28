@@ -10,6 +10,6 @@ image: /assets/images/Angel_Oak_01_CropAlt.jpeg
   </head>
 </html>
 
-I do [chemistry](/chemistry.md), [voiceover/narration](/vo.md) and [other stuff](otherstuff.md).
+I do [chemistry](/chemistry.md), [voiceover/narration](/vo.md), [photography](/photo.md), and [other stuff](otherstuff.md).
 
 More actual content coming soon!
