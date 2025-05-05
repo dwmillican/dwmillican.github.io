@@ -9,4 +9,4 @@ permalink: /chem
 
 I teach [chemistry](https://www.guilford.edu/chemistry-department){:target="_blank"} at [Guilford College](https://www.guilford.edu){:target="_blank"} with a focus on general chemistry and analytical chemistry.
 
-More chemistry info - including a [curated list of chemistry videos](/chemvideos.md) - coming soon!
+More chemistry info coming soon!
