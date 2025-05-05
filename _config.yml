@@ -23,9 +23,9 @@ author:
   name: Dave Millican
   twitter: 
   picture: 
-twitter_username: dw_millican
+#twitter_username: dw_millican
 github_username:
-instagram_username: millicandave
+#instagram_username: millicandave
 logo: /assets/images/dwm_logo.jpeg
 search: # true, false (default)
 search_full_content: false # true, false (default)
